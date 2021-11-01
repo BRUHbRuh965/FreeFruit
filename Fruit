@@ -92,7 +92,7 @@ while true do wait()
                     game.Players.localPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-5509.1235351563, 17.945217132568, 8694.0029296875)
                     wait(0.2)
                     game.Players.localPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(5668.5971679688, 579.55883789063, 4301.130859375)
-                    wait(15)
+                    wait(0.5)
                     game.Players.LocalPlayer:Kick("You have been permanently banned.")
                     elseif NewWorld then
                         game.Players.localPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-885.71594238281, 8.1600980758667, 1842.4324951172)
